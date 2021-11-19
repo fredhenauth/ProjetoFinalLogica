@@ -1,0 +1,16 @@
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\bin\Debug\net5.0\ProjetoFinalLogica.exe
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\bin\Debug\net5.0\ProjetoFinalLogica.deps.json
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\bin\Debug\net5.0\ProjetoFinalLogica.runtimeconfig.json
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\bin\Debug\net5.0\ProjetoFinalLogica.runtimeconfig.dev.json
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\bin\Debug\net5.0\ProjetoFinalLogica.dll
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\bin\Debug\net5.0\ref\ProjetoFinalLogica.dll
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\bin\Debug\net5.0\ProjetoFinalLogica.pdb
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\obj\Debug\net5.0\ProjetoFinalLogica.csproj.AssemblyReference.cache
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\obj\Debug\net5.0\ProjetoFinalLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\obj\Debug\net5.0\ProjetoFinalLogica.AssemblyInfoInputs.cache
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\obj\Debug\net5.0\ProjetoFinalLogica.AssemblyInfo.cs
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\obj\Debug\net5.0\ProjetoFinalLogica.csproj.CoreCompileInputs.cache
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\obj\Debug\net5.0\ProjetoFinalLogica.dll
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\obj\Debug\net5.0\ref\ProjetoFinalLogica.dll
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\obj\Debug\net5.0\ProjetoFinalLogica.pdb
+C:\Users\Fred Henauth\Documents\Curso Sistemas de Informação\2 Período\Lógica de Programação\Exercícios\ProjetoFinalLogica\obj\Debug\net5.0\ProjetoFinalLogica.genruntimeconfig.cache
