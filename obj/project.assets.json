@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fred Henauth\\Documents\\Curso Sistemas de Informação\\2 Período\\Lógica de Programação\\Exercícios\\ProjetoFinalLogica\\ProjetoFinalLogica.csproj",
+      "projectUniqueName": "D:\\Users\\Fred Henauth\\Documents\\Curso Sistemas de Informação\\2 Período\\Lógica de Programação\\Exercícios\\ProjetoFinalLogica\\ProjetoFinalLogica.csproj",
       "projectName": "ProjetoFinalLogica",
-      "projectPath": "C:\\Users\\Fred Henauth\\Documents\\Curso Sistemas de Informação\\2 Período\\Lógica de Programação\\Exercícios\\ProjetoFinalLogica\\ProjetoFinalLogica.csproj",
+      "projectPath": "D:\\Users\\Fred Henauth\\Documents\\Curso Sistemas de Informação\\2 Período\\Lógica de Programação\\Exercícios\\ProjetoFinalLogica\\ProjetoFinalLogica.csproj",
       "packagesPath": "C:\\Users\\Fred Henauth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fred Henauth\\Documents\\Curso Sistemas de Informação\\2 Período\\Lógica de Programação\\Exercícios\\ProjetoFinalLogica\\obj\\",
+      "outputPath": "D:\\Users\\Fred Henauth\\Documents\\Curso Sistemas de Informação\\2 Período\\Lógica de Programação\\Exercícios\\ProjetoFinalLogica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programas\\Microsoft Visual Studio\\Shared\\NuGetPackages"
